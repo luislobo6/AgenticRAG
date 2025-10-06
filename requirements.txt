@@ -1,0 +1,10 @@
+langgraph
+langchain-chroma
+langchain-community
+langchain[openai]
+langchain-text-splitters
+pymupdf
+chromadb
+python-dotenv
+pandas
+tiktoken
