@@ -13,9 +13,11 @@ With this RAG system the agent decides whether use his own knowledge or the RAG 
 1. Create a file with no name, just the extension .env
 2. Create the next variables:
 
+```
 OPENAI_API_KEY=
 DOCUMENTS_PATH=./documents
 PERSIST_DIRECTORY=./.chromadb
+```
 
 3. Save it, you will modify this file in the nexts steps with the tokens
 
